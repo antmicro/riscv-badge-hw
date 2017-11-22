@@ -1,0 +1,19 @@
+*.zip
+*.dat
+*.log
+__Previews
+*Project Logs*
+*Project Outputs*
+*History*
+*FCStd1
+*bak
+*.PrjPCBStructure
+~$*
+Status Report.Txt
+*.Dat
+*.raw
+*.net
+*.LOG
+*.htm
+*.step
+*.Thumb*
